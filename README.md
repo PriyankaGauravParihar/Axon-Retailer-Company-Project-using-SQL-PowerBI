@@ -1,32 +1,32 @@
-This project is an interactive Power BI dashboard developed for Axon Company, a vehicle parts selling organization.
+This project is an interactive Power BI dashboard developed for Axon Company, a vehicle parts-selling organisation.
 
-The dashboard analyzes company performance across three major business areas:
+The dashboard analyses company performance across three major business areas:
 
-Product Sales Performance
+1. Product Sales Performance
 
-Customer Analysis
+2. Customer Analysis
 
-Sales Representative Performance
+3. Sales Representative Performance
 
 The objective is to help management make data-driven decisions by identifying revenue trends, top-performing products, profitable customers, and sales representative effectiveness.
 
-Business Problem
+**Business Problem**
 
-Axon Company needed a centralized dashboard to:
+- Axon Company needed a centralised dashboard to:
 
-Monitor total sales, revenue, profit, and orders
+- Monitor total sales, revenue, profit, and orders
 
-Identify best-selling product lines
+- Identify best-selling product lines
 
-Analyze customer purchasing behavior
+- Analyse customer purchasing behaviour
 
-Track sales representative performance
+- Track sales representative performance
 
-Understand yearly and monthly revenue trends
+- Understand yearly and monthly revenue trends
 
 This dashboard solves the problem by providing a clear and interactive business overview.
 
-🟦 Page 1: Product Sales Report
+**Page 1: Product Sales Report**
 Key KPIs:
 
 Total Orders: 326
@@ -39,7 +39,7 @@ Total Customers: 122
 
 Profit: $3.83M
 
-Key Insights:
+**Key Insights:**
 
 2004 recorded the highest sales
 
@@ -61,7 +61,7 @@ Year-wise Profit
 
 Quantity by Product Line
 
-🟦 Page 2: Customer Analysis Report
+**Page 2: Customer Analysis Report**
 Key Metrics:
 
 Total Revenue (2005): $1.77M
@@ -80,7 +80,7 @@ USA has the highest credit limit, followed by France and Spain
 
 Some customers have zero credit limit
 
-Visuals Included:
+**Visuals Included:**
 
 Year-wise Active Customers
 
@@ -92,7 +92,7 @@ Credit Limit by Customer
 
 Order Status Distribution
 
-🟦 Page 3: Sales Representative Report
+**Page 3: Sales Representative Report**
 Key Analysis:
 
 Revenue and Profit by Country
@@ -105,7 +105,7 @@ Idle Sales Representatives
 
 Profit vs Revenue Analysis
 
-Major Insights:
+**Major Insights:**
 
 USA generates highest revenue and profit
 
@@ -113,7 +113,7 @@ Gerard is the top-performing sales representative
 
 Some representatives have low activity and require attention
 
-📊 Tools & Technologies Used
+ **Tools & Technologies Used**
 
 Power BI
 
